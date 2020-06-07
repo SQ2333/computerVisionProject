@@ -1,6 +1,6 @@
 # computerVisionProject
 This storage include vedio and project.
-###Vedio:
+##Vedio:
   achievement about Garbuge Classification
-###Project:
+##Project:
   deploy model and labels to android device(edge device)
